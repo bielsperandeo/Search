@@ -1,0 +1,35 @@
+div{
+    text-align: center;
+    padding-top: 0px;
+    border-radius: 4px;
+}
+#ata {
+    border-radius: 100px;
+    padding: 10px;
+    padding-right: 100px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+#ata:hover {
+    background-color: wheat;
+}
+#ok:hover {
+    background-color: rgb(252, 202, 209);
+}
+img {
+    margin-left: 519px;
+    margin-top: 50px;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: brown;
+    width: 100%;
+    height: 40px;
+    margin: 0px;
+}
+#ok {
+    margin-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
