@@ -16,6 +16,7 @@ div{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 550;
     width: 400px;
+    border:2px solid rgb(66, 100, 100);
 }
 #ata:hover {
     background-color: rgb(250, 241, 241);
