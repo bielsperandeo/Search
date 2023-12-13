@@ -24,6 +24,9 @@ div{
     background-color: #303134;
     border:1px solid #303134;
 }
+img{
+   margin-top: 50px
+}
 .centro {
     display: flex;
    justify-content: center;
