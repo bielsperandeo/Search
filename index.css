@@ -24,9 +24,11 @@ div{
     background-color: #303134;
     border:1px solid #303134;
 }
-img {
-    margin-left: 530px;
-    margin-top: 50px;
+.centro {
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
 }
 footer {
     position: fixed;
